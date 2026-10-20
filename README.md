@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **BlackDevil** · Team ID `VTU-QFF-HC-0056` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#BlackDevil)
+[⬆ Back to Top](#blackdevil)
 
 </div>
